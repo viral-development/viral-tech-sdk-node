@@ -1,0 +1,14 @@
+{
+  "name": "viral-tech-sdk-node",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "tsc"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^22.8.1",
+    "typescript": "^5.6.3"
+  }
+}
