@@ -1,7 +1,12 @@
 {
-  "name": "sdk",
+  "name": "@viral-tech/sdk",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "author": "Viral Development LLC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viral-development/viral-tech-sdk-node"
+  },
   "version": "0.1.0",
   "scripts": {
     "build": "tsc"
