@@ -1,3 +1,3 @@
 # Viral Tech Node SDK
 
-[Docs - WIP](docs.viral.tech)
+[Docs - WIP](https://docs.viral.tech)
