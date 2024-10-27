@@ -1,5 +1,5 @@
 {
-  "name": "viral-tech-sdk-node",
+  "name": "sdk",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "version": "0.1.0",
