@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/viral-development/viral-tech-sdk-node"
   },
-  "version": "0.5.0",
+  "version": "0.7.0",
   "scripts": {
     "build": "tsc"
   },

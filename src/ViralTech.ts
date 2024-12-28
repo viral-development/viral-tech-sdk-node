@@ -1,6 +1,6 @@
 import { makeApiRequest, Result } from "./api";
 
-const DEFAULT_API_URL = "https://viral.tech/api/v1";
+const DEFAULT_API_URL = "https://app.viral.tech/api/v1";
 
 export type ViralTechOptions = {
     apiKey: string;
